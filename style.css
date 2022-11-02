@@ -1,0 +1,23 @@
+div{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid green;
+    margin: 30px;
+}
+
+.teste-disp{
+    display: inline;
+    width: 30px;
+    height: 30px;
+}
+
+
+.com-border-box{
+background-color: aqua;
+/* box-sizing: border-box; */
+}
+
+.sem-border-box{
+    background-color: red;
+}
