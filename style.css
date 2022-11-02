@@ -15,7 +15,7 @@ div{
 
 .com-border-box{
 background-color: aqua;
-/* box-sizing: border-box; */
+box-sizing: border-box;
 }
 
 .sem-border-box{
